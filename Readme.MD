@@ -1,7 +1,7 @@
 # Messenger
 
 ## Front Service
-messenger:30001
+http://messenger:30001
 
 ## Run container
 
@@ -9,7 +9,7 @@ messenger:30001
 # Voter
 
 ## Front Service
-voter:40001
+http://voter:40001
 
 ## Run container
 
